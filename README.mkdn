@@ -16,7 +16,7 @@ Prepare for build:
 
     . build/envsetup.sh
     lunch spica-eng
-    . vendor/spica/get-google-files -v mdpi
+    vendor/spica/get-google-files -v mdpi
 
 Optionally for gapps and 3D libs from Intercept:
 
